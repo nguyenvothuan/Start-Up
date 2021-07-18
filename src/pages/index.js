@@ -1,6 +1,6 @@
 import SideBar from "../components/Sidebar";
 import NavBar from "../components/Navbar";
-import { BrowserRouter as Router } from "react-router-dom";
+//import { BrowserRouter as Router } from "react-router-dom";
 import React, {useState} from "react";
 import HeroSection from "../components/HeroSection";
 import InfoSection from "../components/InfoSection";

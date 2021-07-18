@@ -1,9 +1,9 @@
 import React from 'react'
 import {Column1, ImgWrap, InfoContainer, InfoWrapper, InfoRow, Column2, TextWrapper, TopLine, Heading, Subtitle, BtnWrap, Img } from './InfoElements'
 import { Button } from '../ButtonElements'
-import img1 from '../../images/image2.svg';
-import img2 from '../../images/image1.svg';
-import img3 from '../../images/payment.svg'
+// import img1 from '../../images/image2.svg';
+// import img2 from '../../images/image1.svg';
+// import img3 from '../../images/payment.svg'
 const InfoSection = ({lightBg, id, imgStart, topLine, lightText, headLine, darkText, description, buttonLabel, img, alt, primary, dark, dark2}) => {
     return (
         <>
